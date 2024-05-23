@@ -116,9 +116,7 @@ projects:
       - title: Aula de comandos elétricos básico.
         link: "#https://drive.google.com/drive/folders/1_HXxGw4EXfCfFD7rrKoZbHRXHoGslYc8?usp=sharing"
         tagline: Elaboração de aula para a disciplina de comandos elétricos básico. 
-    intro: >
-      Laboratório de processos oxidativos avançados da UFC.
-    assignments:
+
       - title: Curso de AutoCAD básico.
         link: "https://drive.google.com/drive/folders/1KA7qtGJ6mC8VikhqJ5oaQ1SJVxv6mB2y?usp=sharing"
         tagline: Elaboração de um site estático utilizando o framework Jekyll.
