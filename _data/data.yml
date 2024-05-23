@@ -44,14 +44,16 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Sobre mim
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Técnico em Eletrotécnica e atualmente cursando Engenharia Elétrica, busco me aperfeiçoar e sempre
+      me atualizar conforme as exigências do mercado de trabalho. Durante o período acadêmico, sempre 
+      procurei realizar atividades que expandissem meu currículo. Ministrei aulas particulares sobre assuntos
+      relacionados à Engenharia, busquei aprender e diversificar meu portfólio com projetos voltados para a 
+      área de programação e estou sempre buscando estar inserido no mercado de trabalho para aumentar meu 
+      network.
+
+
 education:
     title: Formação
     info:
@@ -85,12 +87,12 @@ experiences:
         time: Fevereiro de 2023 - Maio de 2024
         company: Enel - Ceará
         details: |
-          Trabalhei no setor da pré-operação onde foram atribuidas as seguintes responsabilidades:
-          - Analise e a atualização de diagramas unifilares das subestações que ficavam sob responsabilidade da consecionaria como também verificar as subestações dos clientes que se conectavam a rede;
-          - Analise e a atualização de diagramas unifilares das linhas de transmissões e verificação dos componentes conforme as OAPs;
+          Trabalhei no setor da pré-operação, onde foram atribuídas as seguintes responsabilidades:
+          - Análise e atualização de diagramas unifilares das subestações sob responsabilidade da concessionária, bem como verificação das subestações dos clientes conectados à rede;
+          - Análise e atualização de diagramas unifilares das linhas de transmissão e verificação dos componentes conforme as OAPs;
           - Elaboração e Atualização de Acordos Operativos;
           - Atualização de planos de liberações e ordem de instalação;
-          - Análise do Sistema de gestão e desligamento em PODAS.
+          - Análise do Sistema de Gestão e desligamento em PODAS.
 
       - role: Senior Software Engineer
         time: 2014 - 2015
