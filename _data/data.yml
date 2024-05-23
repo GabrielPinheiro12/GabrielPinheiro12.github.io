@@ -106,22 +106,22 @@ experiences:
 
 projects:
     title: Projetos
-    intro:
-
+    intro: >
+      Grupo de Redes Elétricas Inteligentes da UFC.
     assignments:
-      - title: Elaboração de uma página web.
+      - title: Elaboração da pagina web do laborátorio.
         link: "https://gabriell89222.github.io/"
-        tagline: Elaboração de um site estático utilizando o framework Jekyll para o laborátorio do Grupo
-        de Redes Elétricas Inteligentes da UFC.
+        tagline: Elaboração de um site estático utilizando o framework Jekyll.
 
       - title: Aula de comandos elétricos básico.
         link: "#https://drive.google.com/drive/folders/1_HXxGw4EXfCfFD7rrKoZbHRXHoGslYc8?usp=sharing"
-        tagline: Elaboração de aula para a disciplina de comandos elétricos básico para o laborátorio do Grupo
-        de Redes Elétricas Inteligentes da UFC.
-        
+        tagline: Elaboração de aula para a disciplina de comandos elétricos básico. 
+    intro: >
+      Laboratório de processos oxidativos avançados da UFC.
+    assignments:
       - title: Curso de AutoCAD básico.
         link: "https://drive.google.com/drive/folders/1KA7qtGJ6mC8VikhqJ5oaQ1SJVxv6mB2y?usp=sharing"
-        tagline: Elaboração de um curso básico de AutoCAD para o laborátorio de Processos Oxidativos Avançados da UFC.
+        tagline: Elaboração de um site estático utilizando o framework Jekyll.
 
 
 oss:
