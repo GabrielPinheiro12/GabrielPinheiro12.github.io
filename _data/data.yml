@@ -16,7 +16,7 @@ sidebar:
     email: gabrielaraujopinh@gmail.com
     website: gabrielpinheiro12.github.io/ #do not add http://
     linkedin: Gabriel Araújo
-    github: Gabrielll89222
+    github: gabriell89222
     telegram: # add your nickname without '@' sign
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -79,23 +79,19 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Experiências
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Jovem Aprendiz
+        time: Fevereiro de 2023 - Maio de 2024
+        company: Enel - Ceará
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Trabalhei no setor da pré-operação onde foram atribuidas as seguintes responsabilidades:
+          - Analise e a atualização de diagramas unifilares das subestações que ficavam sob responsabilidade da consecionaria como também verificar as subestações dos clientes que se conectavam a rede;
+          - Analise e a atualização de diagramas unifilares das linhas de transmissões e verificação dos componentes conforme as OAPs;
+          - Elaboração e Atualização de Acordos Operativos;
+          - Atualização de planos de liberações e ordem de instalação;
+          - Análise do Sistema de gestão e desligamento em PODAS.
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
