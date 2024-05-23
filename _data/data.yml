@@ -107,45 +107,26 @@ experiences:
 projects:
     title: Projetos
     intro: >
-      Grupo de Redes Elétricas Inteligentes da UFC.
+
     assignments:
       - title: Elaboração da pagina web do laborátorio.
         link: "https://gabriell89222.github.io/"
-        tagline: Elaboração de um site estático utilizando o framework Jekyll.
+        tagline: Elaboração de um site estático utilizando o framework Jekyll para o laborátorio do Grupo de
+        redes elétricas inteligentes da UFC.
 
       - title: Aula de comandos elétricos básico.
         link: "#https://drive.google.com/drive/folders/1_HXxGw4EXfCfFD7rrKoZbHRXHoGslYc8?usp=sharing"
-        tagline: Elaboração de aula para a disciplina de comandos elétricos básico. 
-    intro: >
-      Laboratório de processos oxidativos avançados da UFC.
-    assignments:
+        tagline: Elaboração de aula para a disciplina de comandos elétricos básico para o laborátorio do Grupo de
+        redes elétricas inteligentes da UFC.. 
+
       - title: Curso de AutoCAD básico.
         link: "https://drive.google.com/drive/folders/1KA7qtGJ6mC8VikhqJ5oaQ1SJVxv6mB2y?usp=sharing"
-        tagline: Elaboração de um site estático utilizando o framework Jekyll.
+        tagline: Elaboração de um curso de AutoCAD básico para o laborátorio de Porcessos oxidativos avançados da UFC.
 
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades
 
     toolset:
       - name: Python
