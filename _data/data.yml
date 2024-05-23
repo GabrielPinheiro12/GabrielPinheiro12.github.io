@@ -94,28 +94,14 @@ experiences:
           - Atualização de planos de liberações e ordem de instalação;
           - Análise do Sistema de Gestão e desligamento em PODAS.
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Estágiario
+        time: Janeiro de 2021 - Julho de 2021
+        company: Têxtil Bezerra de Menezes - Ceará
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Trabalhei no setor da manutenção preventiva, onde foram atribuídas as seguintes responsabilidades:
+            - Manutenção elétrica preventiva em máquinas têxteis, bem como manutenção corretiva em casos urgentes;
+            - Análise e Elaboração de diagramas de comandos para aplicação e solução de problemas; 
+            - Inspeção de placas eletrônicas.
 
 certifications:
       title: Certifications
