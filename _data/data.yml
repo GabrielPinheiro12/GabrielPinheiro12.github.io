@@ -121,7 +121,7 @@ projects:
 
       - title: Carrinho seguidor de linha
         link: "https://drive.google.com/drive/folders/1YEqGGPhACe7uobsfIQt-ogTueQ06_h1m?usp=drive_link"
-        tagline: Projeto de um carrinho seguidor de linha sem utilizar Arduino e PIC. 
+        tagline: Projeto envolvendo eletrônica digital de um carrinho seguidor de linha sem utilizar nenhum microcontrolador. 
 
 skills:
     title: Habilidades
