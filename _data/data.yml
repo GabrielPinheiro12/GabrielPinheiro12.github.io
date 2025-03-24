@@ -21,7 +21,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/13UwMYuu4UluCCzfvS9JyJmKNARPZor2K/view?usp=sharing
+    pdf: https://drive.google.com/file/d/18IvOPvH7IYt9rm2XPrOFEA_9KWai1ecK/view?usp=drive_link
 
     languages:
       title: Idiomas
@@ -83,8 +83,16 @@ education:
 experiences:
     title: Experiências
     info:
+      - role: Estagiário de Projetos Elétricos
+        time: Novembro de 2024 - Atualmente
+        company: Atribi Engenharia - Santa Catarina
+        details: |
+          Trabalho no setor de projetos elétricos, onde são atribuídas as seguintes responsabilidades:
+          - Elaboração de projetos elétricos prediais: Desenvolvimento de plantas elétricas, diagramas unifilares, especificação de materiais, cálculo de demanda e dimensionamento de condutores, quadros elétricos e dispositivos de proteção;
+          - Elaboração de projetos de telecomunicações prediais: Planejamento e implementação de infraestrutura para redes de comunicação;
+          - Além disso, acompanho a compatibilização dos projetos elétricos e de telecomunicações com outras disciplinas da construção civil, visando a integração eficiente dos sistemas na edificação.
       - role: Jovem Aprendiz
-        time: Fevereiro de 2023 - Maio de 2024
+        time: Fevereiro de 2023 - Junho de 2024
         company: Enel - Ceará
         details: |
           Trabalhei no setor da pré-operação, onde foram atribuídas as seguintes responsabilidades:
@@ -94,7 +102,7 @@ experiences:
           - Atualização de planos de liberações e ordem de instalação;
           - Análise do Sistema de Gestão e desligamento em PODAS.
 
-      - role: Estagiário
+      - role: Estagiário de Manutenção Elétrica
         time: Janeiro de 2021 - Julho de 2021
         company: Têxtil Bezerra de Menezes - Ceará
         details: |
