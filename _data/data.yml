@@ -24,7 +24,7 @@ sidebar:
     pdf: https://drive.google.com/file/d/18IvOPvH7IYt9rm2XPrOFEA_9KWai1ecK/view?usp=drive_link
 
     languages:
-      title: Idiomas
+      title: Languages
       info:
 
         - idiom: English
@@ -79,55 +79,66 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiências
+    title: Work Experience
     info:
-      - role: Estagiário de Projetos Elétricos
-        time: Novembro de 2024 - Atualmente
+      - role: Electrical Projects Intern
+        time: November 2024 - Present
         company: Atribi Engenharia - Santa Catarina
         details: |
-          Trabalho no setor de projetos elétricos, onde são atribuídas as seguintes responsabilidades:
-          - Elaboração de projetos elétricos prediais: Desenvolvimento de plantas elétricas, diagramas unifilares, especificação de materiais, cálculo de demanda e dimensionamento de condutores, quadros elétricos e dispositivos de proteção;
-          - Elaboração de projetos de telecomunicações prediais: Planejamento e implementação de infraestrutura para redes de comunicação;
-          - Além disso, acompanho a compatibilização dos projetos elétricos e de telecomunicações com outras disciplinas da construção civil, visando a integração eficiente dos sistemas na edificação.
-      - role: Jovem Aprendiz
-        time: Fevereiro de 2023 - Junho de 2024
+           Working in the electrical projects sector with responsibilities including:
+           - Developing building electrical projects: Electrical layouts, single-line diagrams, material specification, demand calculations, sizing conductors, panels and protection devices;
+           - Developing building telecommunications projects: Planning communication network infrastructure;
+           - Coordinating integration of electrical/telecom projects with other civil engineering disciplines.
+      - role: University Researcher
+        time: November 2023 - Present
+        company: Smart Grids Research Group
+        details: |
+          - Development and maintenance of the group's web page;
+          - Development of 3D modeling using Blender software for the virtual reality project of Pici Campus substation and microgrid;
+          - Update of the single-line diagram for Pici Campus microgrid;
+          - Development of projects focused on improving the efficiency of the microgrid;
+          - Creation of short courses focused on automation, electrical controls, programming, and web development.
+      - role: Young Apprentice
+        time: February 2023 - June 2024
         company: Enel - Ceará
         details: |
-          Trabalhei no setor da pré-operação, onde foram atribuídas as seguintes responsabilidades:
-          - Análise e atualização de diagramas unifilares das subestações sob responsabilidade da concessionária, bem como verificação das subestações dos clientes conectados à rede;
-          - Análise e atualização de diagramas unifilares das linhas de transmissão e verificação dos componentes conforme as OAPs;
-          - Elaboração e Atualização de Acordos Operativos;
-          - Atualização de planos de liberações e ordem de instalação;
-          - Análise do Sistema de Gestão e desligamento em PODAS.
+          - Analyzing/updating single-line diagrams for utility substations and customer-connected substations;
+          - Verifying transmission line components against Work Authorization Procedures (OAPs);
+          - Preparing/updating Operational Agreements;
+          - Maintaining outage schedules and installation orders;
+          - Analyzing Outage Management System (PODAS).
 
-      - role: Estagiário de Manutenção Elétrica
-        time: Janeiro de 2021 - Julho de 2021
+      - role: Electrical Maintenance Intern
+        time: January 2021 - July 2021
         company: Têxtil Bezerra de Menezes - Ceará
         details: |
-          Trabalhei no setor da manutenção preventiva, onde foram atribuídas as seguintes responsabilidades:
-            - Manutenção elétrica preventiva em máquinas têxteis, bem como manutenção corretiva em casos urgentes;
-            - Análise e Elaboração de diagramas de comandos para aplicação e solução de problemas; 
-            - Inspeção de placas eletrônicas.
+          Responsibilities in preventive maintenance included:
+          - Preventive electrical maintenance on textile machinery;
+          - Developing command diagrams for troubleshooting;
+          - Corrective maintenance for urgent cases;
+          - Electronic board inspection.
+
 
 
 projects:
-    title: Projetos
+    title: Projects
     assignments:
-      - title: Elaboração de um página web.
+      - title: Web Page Development
         link: "https://gabriell89222.github.io/"
-        tagline: Elaboração de um site estático utilizando o framework Jekyll para o Laborátorio Grupo de Redes Elétricas Inteligentes da UFC.
+        tagline: Static site development using Jekyll framework for UFC's Intelligent Electrical Networks Group Laboratory
 
-      - title: Aula de comandos elétricos básico.
+      - title: Basic Electrical Controls Course
         link: "https://drive.google.com/drive/folders/1_HXxGw4EXfCfFD7rrKoZbHRXHoGslYc8?usp=sharing"
-        tagline: Elaboração de aula para a disciplina de comandos elétricos básico para o Laborátorio Grupo de Redes Elétricas Inteligentes da UFC. 
+        tagline: Course material development for basic electrical controls at UFC's Intelligent Electrical Networks Group Laboratory
 
-      - title: Curso de AutoCAD básico.
+      - title: Basic AutoCAD Course
         link: "https://drive.google.com/drive/folders/1KA7qtGJ6mC8VikhqJ5oaQ1SJVxv6mB2y?usp=sharing"
-        tagline: Elaboração de um curso de AutoCAD básico para o Laborátorio de Processos Oxidativos Avançados da UFC.
+        tagline: Basic AutoCAD training development for UFC's Advanced Oxidative Processes Laboratory
 
-      - title: Carrinho seguidor de linha
+      - title: Line-Following Robot
         link: "https://drive.google.com/drive/folders/1YEqGGPhACe7uobsfIQt-ogTueQ06_h1m?usp=drive_link"
-        tagline: Projeto envolvendo eletrônica digital de um carrinho seguidor de linha sem utilizar nenhum microcontrolador. 
+        tagline: Microcontroller-free line-following vehicle
+
 
 skills:
     title: Habilidades
