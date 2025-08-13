@@ -1,52 +1,65 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
 sidebar:
-    position: left
-    about: False
-    education: True
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
+    # Profile information
     name: Gabriel Araújo Pinheiro
-    tagline: Electrotechnical Technician
-    avatar: profile.png
+    tagline: Técnico em Eletrotécnica
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
+    # Sidebar links
     email: gabrielaraujopinh@gmail.com
-    website: gabrielpinheiro12.github.io
+    website: gabrielpinheiro12.github.io/ #do not add http://
     linkedin: gabriel-araújo-491baa222/
     github: gabriell89222
-    telegram: 
-    stack-overflow: 
+    telegram: # add your nickname without '@' sign
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 
+    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://drive.google.com/file/d/18IvOPvH7IYt9rm2XPrOFEA_9KWai1ecK/view?usp=drive_link
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
-          level: Advanced
+
+        - idiom: Inglês
+          level: Avançado
+
 
     interests:
       title: 
       info:
         - item: 
           link:
+
         - item: 
           link:
+
         - item: 
           link:
 
 career-profile:
-    title: About Me
+    title: Sobre mim
     summary: |
-      Electrotechnical Technician currently pursuing a degree in Electrical Engineering. I seek to improve myself and constantly 
-      update my skills according to market demands. During my academic career, I've consistently pursued activities to expand my 
-      resume: taught private classes on engineering-related subjects, learned programming skills to diversify my portfolio, and 
-      continuously seek work opportunities to grow my professional network.
+      Técnico em Eletrotécnica e atualmente cursando Engenharia Elétrica, busco me aperfeiçoar e sempre
+      me atualizar conforme as exigências do mercado de trabalho. Durante o período acadêmico, sempre 
+      procurei realizar atividades que expandissem meu currículo. Ministrei aulas particulares sobre assuntos
+      relacionados à Engenharia, busquei aprender e diversificar meu portfólio com projetos voltados para a 
+      área de programação e estou sempre buscando estar inserido no mercado de trabalho para aumentar meu 
+      network.
+
 
 education:
-    title: Education
+    title: Formação
     info:
-      - degree: Undergraduate in Electrical Engineering
+      - degree: Graduando em Engenharia Elétrica
         university: UFC - Campus do Pici
-        time: 2022 - Present
+        time: 2022 - Atualmente
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -55,7 +68,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Electrotechnical Technician
+      - degree: Técnico em Eltrotécnica
         university: IFCE - Campus Fortaleza
         time: 2017 - 2021
         details: |
@@ -68,63 +81,72 @@ education:
             - Bullet point
 
 experiences:
-    title: Work Experience
+    title: Experiências
     info:
-      - role: Electrical Projects Intern
-        time: November 2024 - Present
+      - role: Estagiário de Projetos Elétricos
+        time: Novembro de 2024 - Atualmente
         company: Atribi Engenharia - Santa Catarina
         details: |
-          Working in the electrical projects sector with responsibilities including:
-          - Developing building electrical projects: Electrical layouts, single-line diagrams, material specification, demand calculations, sizing conductors, panels and protection devices
-          - Developing building telecommunications projects: Planning communication network infrastructure
-          - Coordinating integration of electrical/telecom projects with other civil engineering disciplines
-      - role: Young Apprentice
-        time: February 2023 - June 2024
+          Trabalho no setor de projetos elétricos, onde são atribuídas as seguintes responsabilidades:
+          - Elaboração de projetos elétricos prediais: Desenvolvimento de plantas elétricas, diagramas unifilares, especificação de materiais, cálculo de demanda e dimensionamento de condutores, quadros elétricos e dispositivos de proteção;
+          - Elaboração de projetos de telecomunicações prediais: Planejamento e implementação de infraestrutura para redes de comunicação;
+          - Além disso, acompanho a compatibilização dos projetos elétricos e de telecomunicações com outras disciplinas da construção civil, visando a integração eficiente dos sistemas na edificação.
+      - role: Jovem Aprendiz
+        time: Fevereiro de 2023 - Junho de 2024
         company: Enel - Ceará
         details: |
-          Worked in pre-operation sector with responsibilities including:
-          - Analyzing/updating single-line diagrams for utility substations and customer-connected substations
-          - Verifying transmission line components against Work Authorization Procedures (OAPs)
-          - Preparing/updating Operational Agreements
-          - Maintaining outage schedules and installation orders
-          - Analyzing Outage Management System (PODAS)
-      - role: Electrical Maintenance Intern
-        time: January 2021 - July 2021
+          Trabalhei no setor da pré-operação, onde foram atribuídas as seguintes responsabilidades:
+          - Análise e atualização de diagramas unifilares das subestações sob responsabilidade da concessionária, bem como verificação das subestações dos clientes conectados à rede;
+          - Análise e atualização de diagramas unifilares das linhas de transmissão e verificação dos componentes conforme as OAPs;
+          - Elaboração e Atualização de Acordos Operativos;
+          - Atualização de planos de liberações e ordem de instalação;
+          - Análise do Sistema de Gestão e desligamento em PODAS.
+
+      - role: Estagiário de Manutenção Elétrica
+        time: Janeiro de 2021 - Julho de 2021
         company: Têxtil Bezerra de Menezes - Ceará
         details: |
-          Responsibilities in preventive maintenance included:
-          - Preventive electrical maintenance on textile machinery
-          - Developing command diagrams for troubleshooting
-          - Corrective maintenance for urgent cases
-          - Electronic board inspection
+          Trabalhei no setor da manutenção preventiva, onde foram atribuídas as seguintes responsabilidades:
+            - Manutenção elétrica preventiva em máquinas têxteis, bem como manutenção corretiva em casos urgentes;
+            - Análise e Elaboração de diagramas de comandos para aplicação e solução de problemas; 
+            - Inspeção de placas eletrônicas.
+
 
 projects:
-    title: Projects
+    title: Projetos
     assignments:
-      - title: Web Page Development
+      - title: Elaboração de um página web.
         link: "https://gabriell89222.github.io/"
-        tagline: Static site development using Jekyll framework for UFC's Intelligent Electrical Networks Group Laboratory
-      - title: Basic Electrical Controls Course
+        tagline: Elaboração de um site estático utilizando o framework Jekyll para o Laborátorio Grupo de Redes Elétricas Inteligentes da UFC.
+
+      - title: Aula de comandos elétricos básico.
         link: "https://drive.google.com/drive/folders/1_HXxGw4EXfCfFD7rrKoZbHRXHoGslYc8?usp=sharing"
-        tagline: Course material development for basic electrical controls at UFC's Intelligent Electrical Networks Group Laboratory
-      - title: Basic AutoCAD Course
+        tagline: Elaboração de aula para a disciplina de comandos elétricos básico para o Laborátorio Grupo de Redes Elétricas Inteligentes da UFC. 
+
+      - title: Curso de AutoCAD básico.
         link: "https://drive.google.com/drive/folders/1KA7qtGJ6mC8VikhqJ5oaQ1SJVxv6mB2y?usp=sharing"
-        tagline: Basic AutoCAD training development for UFC's Advanced Oxidative Processes Laboratory
-      - title: Line-Following Robot
+        tagline: Elaboração de um curso de AutoCAD básico para o Laborátorio de Processos Oxidativos Avançados da UFC.
+
+      - title: Carrinho seguidor de linha
         link: "https://drive.google.com/drive/folders/1YEqGGPhACe7uobsfIQt-ogTueQ06_h1m?usp=drive_link"
-        tagline: Digital electronics project: Microcontroller-free line-following vehicle
+        tagline: Projeto envolvendo eletrônica digital de um carrinho seguidor de linha sem utilizar nenhum microcontrolador. 
 
 skills:
-    title: Skills
+    title: Habilidades
+
     toolset:
       - name: Python
         level: 50%
+
       - name: HTML5, CSS & JS
         level: 30%
+
       - name: AutoCAD
         level: 70%
-      - name: Microsoft Office
+
+      - name: Pacotte Office 
         level: 30%
+
       - name: Power BI
         level: 30%
 
