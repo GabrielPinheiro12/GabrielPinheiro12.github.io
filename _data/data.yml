@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Gabriel Araújo Pinheiro
-    tagline: Técnico em Eletrotécnica
+    tagline: Electrotechnical Technician
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,8 +27,8 @@ sidebar:
       title: Idiomas
       info:
 
-        - idiom: Inglês
-          level: Avançado
+        - idiom: English
+          level: Advanced
 
 
     interests:
@@ -44,22 +44,20 @@ sidebar:
           link:
 
 career-profile:
-    title: Sobre mim
+    title: About Me
     summary: |
-      Técnico em Eletrotécnica e atualmente cursando Engenharia Elétrica, busco me aperfeiçoar e sempre
-      me atualizar conforme as exigências do mercado de trabalho. Durante o período acadêmico, sempre 
-      procurei realizar atividades que expandissem meu currículo. Ministrei aulas particulares sobre assuntos
-      relacionados à Engenharia, busquei aprender e diversificar meu portfólio com projetos voltados para a 
-      área de programação e estou sempre buscando estar inserido no mercado de trabalho para aumentar meu 
-      network.
+      Electrotechnical Technician currently pursuing a degree in Electrical Engineering. I seek to improve myself and constantly 
+      update my skills according to market demands. During my academic career, I've consistently pursued activities to expand my 
+      resume: taught private classes on engineering-related subjects, learned programming skills to diversify my portfolio, and 
+      continuously seek work opportunities to grow my professional network.
 
 
 education:
-    title: Formação
+    title: Education
     info:
-      - degree: Graduando em Engenharia Elétrica
+      - degree: Undergraduate in Electrical Engineering
         university: UFC - Campus do Pici
-        time: 2022 - Atualmente
+        time: 2022 - Present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,7 +66,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Técnico em Eltrotécnica
+      - degree: Electrotechnical Technician
         university: IFCE - Campus Fortaleza
         time: 2017 - 2021
         details: |
